@@ -10,7 +10,7 @@ package com.ciclo3.proyectog24;
  */
 public class Ejercicio4 {
                 public static void main(String[] args) {
-        System.out.println("Clase Git 04 " + "Agregando Logica");
+        System.out.println("Clase Git 04 " + "Agregando Logica MOdificado");
     }
     
 }
